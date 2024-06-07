@@ -1,3 +1,3 @@
-module github.com/fred1268/go-clap
+module github.com/jcbhmr/go-clap
 
-go 1.18
+go 1.22.3
