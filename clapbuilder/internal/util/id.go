@@ -1,5 +1,4 @@
-package clapbuilder
-
+package util
 
 type Id string
 
